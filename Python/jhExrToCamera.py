@@ -6,6 +6,8 @@
 Todos:
 make placement relative to the Read node -- done 
 detect Vray vs PrMan compliant matrices + Y/Z switch for Vray
+
+jetzt ist alles besser
 '''
 
 import nuke
